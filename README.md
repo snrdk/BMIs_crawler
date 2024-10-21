@@ -17,7 +17,7 @@ The collected data includes business model canvas data as:
     <p style="font-size: 14px; color: gray;">Image source: Strategyzer</p>
 </div>
 
-Business model canvas data
+**Business model canvas data**
 * Key Partners: External partners such as suppliers and distributors who help run the business
 * Key Activities: The main activities a company must perform to deliver value to customers
 * Key Resources: Physical, human, intellectual, and financial resources needed to operate the business model
