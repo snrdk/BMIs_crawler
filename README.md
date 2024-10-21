@@ -10,7 +10,6 @@ This code was used as part of the study, which is currently under review.
 Description: Information about the products and services the company offers.
 
 The collected data includes business model canvas data as:
-
 Business model canvas data
 
 * Key Partners: External partners such as suppliers and distributors who help run the business
