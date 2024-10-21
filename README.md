@@ -6,12 +6,11 @@ This code was used as part of the study, which is currently under review.
 
 
 ## Components
-
 Description: Information about the products and services the company offers.
 
 The collected data includes business model canvas data as:
+\n
 Business model canvas data
-
 * Key Partners: External partners such as suppliers and distributors who help run the business
 * Key Activities: The main activities a company must perform to deliver value to customers
 * Key Resources: Physical, human, intellectual, and financial resources needed to operate the business model
