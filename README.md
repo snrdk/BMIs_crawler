@@ -1,4 +1,4 @@
-# BMIs_crawler
+# BMIs crawler
 A web scraping tool for extracting data from [Business Model Ideas](https://www.businessmodelideas.com). This tool automates the collection of company information such as descriptions and business model components from the site.
 This code was used as part of the study, which is currently under review.
 
