@@ -9,8 +9,10 @@ This code was used as part of the study, which is currently under review.
 * Description: Information about the products and services the company offers.
 
 The collected data includes business model canvas data as:  
-<img src="https://github.com/user-attachments/assets/da56eee7-64a1-489d-b638-638c179fdc00" alt="Business Model Canvas" width="500"/>  
-Image source: Strategyzer  
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/da56eee7-64a1-489d-b638-638c179fdc00" alt="Business Model Canvas" width="600"/>
+    <p style="font-size: 14px; color: gray;">Image source: Strategyzer</p>
+</div>
 
 Business model canvas data
 * Key Partners: External partners such as suppliers and distributors who help run the business
