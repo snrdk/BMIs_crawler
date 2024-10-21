@@ -10,12 +10,12 @@ The collected data includes business model canvas data as:
 * Key Partners: External partners such as suppliers and distributors who help run the business
 * Key Activities: The main activities a company must perform to deliver value to customers
 * Key Resources: Physical, human, intellectual, and financial resources needed to operate the business model
-** Value Propositions**: The value of products or services that solve customer problems or satisfy their needs
+* **Value Propositions**: The value of products or services that solve customer problems or satisfy their needs
 * Customer Relationships: Interaction methods and relationship management strategies for customer retention
 * Channels: Communication and distribution channels used to deliver value and interact with customers
 * Customer Segments:Characteristics of the company's target customer groups and segmented customer base
 * Cost Structure: Main cost items and characteristics required to operate the business model
-** Revenue Streams**: The way cash flow is generated from each customer segment and the pricing mechanisms
+* **Revenue Streams**: The way cash flow is generated from each customer segment and the pricing mechanisms
 
 ## Features
 The script is organized as follows: 
@@ -30,3 +30,4 @@ The script is organized as follows:
 * Python: 3.x
 * Libraries: BeautifulSoup, selenium, pandas, requests, webdriver_manager
 * ChromeDriver
+* Subscription account is required.
