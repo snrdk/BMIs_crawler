@@ -4,6 +4,7 @@ This code was used as part of the study, which is currently under review.
 
 🐤 **Related work**: Lee, S. and Lee, H., From Networks to Narratives: Data-driven business model ideation using heterogeneous link prediction, Technovation, Submitted on August 2024.
 
+
 ## Components
 The collected data includes business model canvas data as:
 
@@ -17,6 +18,7 @@ The collected data includes business model canvas data as:
 * Cost Structure: Main cost items and characteristics required to operate the business model
 * Revenue Streams: The way cash flow is generated from each customer segment and the pricing mechanisms
 
+
 ## Features
 The script is organized as follows: 
 
@@ -25,6 +27,7 @@ The script is organized as follows:
 * **Headless browser option**: Optionally run the script in headless mode for background execution.
 * **Error handling**: Handles missing data and login errors gracefully.
 * **Save data**: Save the collected data as a CSV file named collected_all_data.csv.
+
 
 ## Requirements
 * Python: 3.x
